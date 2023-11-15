@@ -13,3 +13,7 @@ test('reverses a string', () => {
 test('reverses a string', () => {
   expect(reverseString('hey')).toBe('yeh');
 });
+
+test('reverses a string', () => {
+  expect(reverseString('my name is lou')).toBe('uol si eman ym');
+});
