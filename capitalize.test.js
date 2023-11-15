@@ -12,6 +12,7 @@ test('first letter to be capitalized', () => {
 test('first letter to be capitalized', () => {
   expect(capitalize('world')).toBe('World');
 });
+
 test('first letter to be capitalized', () => {
   expect(capitalize('hey my name is louis fortin')).toBe('Hey my name is louis fortin');
 });
